@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UpdateFormsList">
+</Property><Property Name="Solution File" Value="C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\UpdateFormsList.sln">
+</Property><Property Name="User Options File" Value="C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\UpdateFormsList.suo">
+</Property><Property Name="Date" Value="Monday, April 14, 2014">
+</Property><Property Name="Time" Value="14:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UpdateFormsList.sln" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\UpdateFormsList.sln">
+</Event><Event ErrorLevel="0" Project="" Source="UpdateFormsList.suo" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\UpdateFormsList.suo">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="UpdateFormsList.vbproj" Description="Project file successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\UpdateFormsList.vbproj">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="UpdateFormsList.vbproj.user" Description="Project user file successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\UpdateFormsList.vbproj.user">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Common.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Common.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseOtherNOA.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseOtherNOA.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseOtherNOA.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseOtherNOA.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowsePS50NOA.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowsePS50NOA.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowsePS50NOA.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowsePS50NOA.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseNOA.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseNOA.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseNOA.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseNOA.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="DoSBarCode.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\DoSBarCode.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="DoSBarCode.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\DoSBarCode.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Form1.designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Form1.designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Form1.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Form2.designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Form2.designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Form2.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Form2.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmRecon.designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmRecon.designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmRecon.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmRecon.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmSSNImport.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmSSNImport.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmSSNImport.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmSSNImport.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmStart.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmStart.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmStart.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmStart.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDayForward.designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDayForward.designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDayForward.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDayForward.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDoSDeleteBatch.designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDoSDeleteBatch.designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDoSDeleteBatch.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDoSDeleteBatch.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDoSResetBatchStatus.designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDoSResetBatchStatus.designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDoSResetBatchStatus.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDoSResetBatchStatus.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmODBC.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmODBC.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmODBC.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmODBC.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAbout.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAbout.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAbout.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAbout.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAddFN.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAddFN.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAddFN.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAddFN.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAddNOA.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAddNOA.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAddNOA.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAddNOA.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseDR.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseDR.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseDR.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseDR.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmModFN.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmModFN.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmModFN.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmModFN.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmModNOA.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmModNOA.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmModNOA.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmModNOA.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmOpenOption.designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmOpenOption.designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmOpenOption.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmOpenOption.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmRePrint.designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmRePrint.designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmRePrint.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmRePrint.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmSelectNOA.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmSelectNOA.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmSelectNOA.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmSelectNOA.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Main.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Main.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Main.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Main.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Module1.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="UpgradeSupport.vb" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\UpgradeSupport.vb">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="My Project\app.manifest" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="UpdateFormsList_1_TemporaryKey.pfx" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\UpdateFormsList_1_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="UpdateFormsList_TemporaryKey.pfx" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\UpdateFormsList_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="_UpgradeReport.htm" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\_UpgradeReport.htm">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="UpdateFormsList.ico" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\UpdateFormsList.ico">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseOtherNOA.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseOtherNOA.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowsePS50NOA.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowsePS50NOA.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseNOA.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseNOA.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="DoSBarCode.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\DoSBarCode.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Form1.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Form1.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Form2.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Form2.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDayForward.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDayForward.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDoSDeleteBatch.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDoSDeleteBatch.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmDoSResetBatchStatus.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmDoSResetBatchStatus.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmODBC.resx" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmODBC.resx">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAbout.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAbout.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAddFN.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAddFN.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmAddNOA.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmAddNOA.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmBrowseDR.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmBrowseDR.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmModFN.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmModFN.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmModNOA.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmModNOA.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmOpenOption.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmOpenOption.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmRecon.resx" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmRecon.resx">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmRePrint.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmRePrint.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmSelectNOA.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmSelectNOA.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmSSNImport.resx" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmSSNImport.resx">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="frmStart.resx" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\frmStart.resx">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="Main.resX" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Main.resX">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="My Project\Resources.resx" Description="File successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="UpdateFormsList" Source="UpdateFormsList.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="UpdateFormsList.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UpdateFormsList" Source="UpdateFormsList.vbproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Install" Source="..\Install\Install.vdproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="Install.vdproj" Source="..\Install\Install.vdproj" Description="Project file successfully backed up as C:\VBProjects\SpecialProjects\DoS\UpdateFormsList\Backup\Install\Install.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="UpdateFormsList.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UpdateFormsList.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UpdateFormsList" Source="UpdateFormsList.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

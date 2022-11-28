@@ -1,0 +1,16 @@
+// Strings
+STRINGTABLE
+BEGIN
+    
+    950    "Ascent Capture - Text Release Setup"
+    951    "Text Release Setup Error"
+    952    "Text Release Error"
+    953    "Text Release Setup"
+    957	   "Text Release Script" 
+    1011   "File is read-only.  You must select a file that has write-access or change the attribute."
+    1012   "Invalid file name.  You must specify a full path."
+    1015   "No file name was specified.  You must specify a full path."
+
+END
+
+#include "common.rc"

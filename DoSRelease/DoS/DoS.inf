@@ -1,0 +1,15 @@
+[Scripts]
+DoS Release Script
+
+[DoS Release Script]
+SetupModule=.\DoS.dll
+SetupProgID=DoS.kfxreleasesetupscript
+SetupVersion=1.0
+ReleaseModule=.\DoS.dll
+ReleaseProgID=DoS.kfxreleasescript
+ReleaseVersion=1.0
+SupportsNonImageFiles=True
+SupportsKofaxPDF=True
+RemainLoaded=True
+SupportsOriginalFileName=True
+

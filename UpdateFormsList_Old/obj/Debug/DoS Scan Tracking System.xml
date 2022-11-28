@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DoSScanTrackingSystem
+</name>
+</assembly>
+<members>
+<member name="M:DoSScanTrackingSystem.frmModFN.MNS(System.Object)">
+ Return String if object is not null, else return empty.string
+
+</member><member name="P:DoSScanTrackingSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DoSScanTrackingSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DoSScanTrackingSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:DoSScanTrackingSystem.frmModNOA.MNS(System.Object)">
+ Return String if object is not null, else return empty.string
+
+</member>
+</members>
+</doc>

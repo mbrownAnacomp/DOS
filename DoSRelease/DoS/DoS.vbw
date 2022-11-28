@@ -1,0 +1,14 @@
+KfxReleaseSetupScript = 176, 176, 1269, 718, 
+KfxReleaseScript = 154, 203, 1114, 733, 
+TextError = 0, 0, 0, 0, C
+ASCIITextFile = 17, 21, 977, 551, Z
+UtilCode = 44, 58, 1004, 588, 
+ResConstants = 66, 87, 1026, 617, 
+frmMenu = 0, 0, 0, 0, C, 198, 261, 1158, 791, C
+KfxLink = 0, 0, 0, 0, C
+KfxLinks = 0, 0, 0, 0, C, 22, 29, 982, 559, C
+CInternationalSupport = 0, 0, 0, 0, C
+modRelCommon = 88, 116, 1048, 646, 
+frmSetup = 110, 145, 1070, 675, , 176, 232, 1136, 762, C
+frmWait = 0, 0, 0, 0, C, 66, 87, 1026, 617, C
+frmAdobeAcrobatSetup = 132, 174, 1092, 704, , 88, 116, 1048, 646, C

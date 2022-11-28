@@ -1,0 +1,15 @@
+[Scripts]
+DoS 5 Field Release Script
+
+[DoS 5 Field Release Script]
+SetupModule=.\DoS_5F.dll
+SetupProgID=DoS_5F.kfxreleasesetupscript
+SetupVersion=1.0
+ReleaseModule=.\DoS_5F.dll
+ReleaseProgID=DoS_5F.kfxreleasescript
+ReleaseVersion=1.0
+SupportsNonImageFiles=True
+SupportsKofaxPDF=True
+RemainLoaded=True
+SupportsOriginalFileName=True
+

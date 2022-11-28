@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DIAScanTrackingSystem
+</name>
+</assembly>
+<members>
+<member name="M:DiaScanTrackingSystem.frmModFN.MNS(System.Object)">
+ Return String if object is not null, else return empty.string
+
+</member><member name="M:DiaScanTrackingSystem.frmModNOA.MNS(System.Object)">
+ Return String if object is not null, else return empty.string
+
+</member>
+</members>
+</doc>

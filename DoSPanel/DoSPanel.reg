@@ -1,0 +1,11 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Kofax Image Products\Ascent Capture\3.0\Ascent Capture - Scan\User Panels\DoSPanel]
+"DisplayName"="DoSPAnel"
+"ProgID"="DoSPanel.ctlButtonCmd"
+"MinSizeX"=dword:00000001
+"MinSizeY"=dword:00000001
+"InitSizeX"=dword:00000001
+"InitSizeY"=dword:00000001
+"Visible"=dword:00000000
+
